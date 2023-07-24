@@ -498,4 +498,4 @@ def login():
 
 if __name__ == '__main__':
     # print("lsadjablasdbhjkhds",mongo_uri,dotenv_path)
-    app.run(port=11000)
+    app.run(port=10000)
